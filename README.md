@@ -20,6 +20,7 @@ ensure a consistent style across all CX project documents.
 cxdocpkg
 ├── README.md
 ├── CONTRIBUTING.md
+├── CHANGELOG.md
 ├── LICENSE
 ├── LICENSES
 │   ├── CC-BY-4.0.txt
