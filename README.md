@@ -19,6 +19,7 @@ ensure a consistent style across all CX project documents.
 ```tree
 cxdocpkg
 ├── README.md
+├── CONTRIBUTING.md
 ├── LICENSE
 ├── LICENSES
 │   ├── CC-BY-4.0.txt
@@ -39,6 +40,10 @@ cxdocpkg
 TBD
 
 See the files in `examples` fo usage examples.
+
+## Contribution
+
+See the [contributing](CONTRIBUTING.md)
 
 ## Licensing
 
