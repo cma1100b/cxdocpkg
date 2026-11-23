@@ -1,0 +1,28 @@
+# SPDX-License-Identifier: MIT
+
+# Compilation directories
+build/**/*
+
+# Output files
+*.pdf
+*.zip
+*.gz
+
+# Compilation files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.idx
+*.ind
+*.ilg

@@ -1,0 +1,18 @@
+Copyright (c) 2026 Carlos Madrid
+
+This project uses multiple licenses depending on the directory and file type.
+Full license texts are available in the LICENSES/ directory.
+
+- LaTeX class and packages (src/*.cls, src/*.sty):
+  Licensed under the LaTeX Project Public License 1.3c (SPDX: LPPL-1.3c).
+  See LICENSES/LPPL-1.3c.txt for the full text.
+  Current Maintainer: Carlos Madrid.
+
+- Documentation and examples (examples/*):
+  Licensed under the Creative Commons Attribution 4.0 International Public License
+  (SPDX: CC-BY-4.0).
+  See LICENSES/CC-BY-4.0.txt for the full text.
+
+- Other files (scripts, configuration, build files, etc.):
+  Licensed under the MIT License (SPDX: MIT).
+  See LICENSES/MIT.txt for the full text.

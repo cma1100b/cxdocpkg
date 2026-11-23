@@ -1,0 +1,45 @@
+% SPDX-License-Identifier: CC-BY-4.0
+%
+% Usage example of the cxdoc document class
+%
+% Copyright (c) 2026 Carlos Madrid
+
+\documentclass{cxdoc}
+
+\usepackage[english]{babel}
+
+% Document metadata (feeds cover page, headers, footers, and back cover)
+\project{The Chi${\pi}$ X Project}
+\docid{CX01-0001}
+\docversion{v1.0}
+\client{CX Association}
+% \logo{assets/example-logo.pdf}
+
+\title{Example Project}
+\author{Carlos Madrid}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Usage example of the cxdoc document class
+\end{abstract}
+
+\tableofcontents
+\newpage
+
+\section{Introduction}
+
+This document specifies the functional and non-functional requirements of the
+system. Headers and footers automatically display document ID
+\textbf{CX01-0001}.
+
+\section{Architecture Overview}
+
+Technical project content goes here.
+
+\makebackcover
+
+\end{document}
